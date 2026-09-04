@@ -1,9 +1,3 @@
-# A Day in Someone's Life 
-
-> A nostalgic, interactive text-based life simulation game written in C++ as my **1st Semester Programming Fundamentals Final Project**.
-
----
-
 ## Overview
 
 *A Day in Someone's Life* is a console-based RPG and daily life simulation. Starting the morning with a bank account of 25,000 PKR, you set out into town to run errands, grab groceries, socialize with friends, enjoy amusement park rides, dine at popular local spots, and navigate unexpected twists before heading back home to sleep.
