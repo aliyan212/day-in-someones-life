@@ -64,7 +64,7 @@ g++ -std=c++11 Project.cpp -o day-in-life
 
 ---
 
-## 📜 Reflection
+## Reflection
 
 This project was built during the 1st semester of university as the capstone for **Programming Fundamentals**. It represents the initial steps of learning structured programming in C++, combining core algorithmic logic with a fun, relatable narrative. I think I got 9/10 for this project and it literally saved my semester.
 
