@@ -1,0 +1,14 @@
+# Compiled Binaries & Object files
+*.o
+*.out
+*.exe
+Project
+day-in-life
+a.out
+
+# macOS files
+.DS_Store
+
+# IDE / Editor configs
+.vscode/
+.idea/
